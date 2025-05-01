@@ -1,6 +1,6 @@
-# Fraud-Detection
+# Detección de Fraudes
 
-# Fraud Detection con Autoencoders
+# Detección de Fraude con Autoencoders
 
 Este proyecto tiene como objetivo detectar transacciones fraudulentas utilizando técnicas de machine learning y deep learning. Se realizó un análisis completo del dataset, desde su exploración inicial hasta el entrenamiento de modelos avanzados.
 
